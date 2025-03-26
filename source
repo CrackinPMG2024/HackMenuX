@@ -521,7 +521,7 @@ script.onload = function() {
     </div>
     <div class="button-container" style="width: calc(33.33% - 10px);">
       <button id="bobbify_account">Bobbify Account</button>
-      <div class="description">[SERVER SIDE] Add later.</div>
+      <div class="description">[SERVER SIDE] This will make your data into the 2020 "Bobby Fancywoman" incident.</div>
     </div>
     <div class="button-container" style="width: calc(33.33% - 10px);">
       <button id="open_promo_egg">Open Promo Egg</button>
